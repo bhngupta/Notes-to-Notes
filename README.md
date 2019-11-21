@@ -1,2 +1,3 @@
 # Notes-to-Notes
-Save hand written digits, in black and white (ML model) to Google Keep (API) directly.
+Smart tech to digitalize handwritten notes.  
+Integrated OCR model to read a handwritten page using Deep Learning, and store the result in Google Keep using a Python script.
